@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    /* background-image: url('img/mas_icono.png'); */
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif; 
+}
+ .contenedor{
+    width: 99%;
+    max-width: 95%;
+    padding: 30px; 
+    display: grid;
+    grid-gap:20px;
+    grid-template-columns: repeat(5,auto); 
+    grid-template-rows: repeat(3,auto);
+} 
+
+.contenedor > div,
+.contenedor .header,
+.contenedor .contenido,
+.contenedor .footer{
+    background:palegreen;
+}
+.contenedor .header{
+    background-color: #000000;
+    color: aliceblue;
+    grid-column-start:1;
+    grid-column-end: -1; 
+}
+.contenedor .contenido{
+    
+}
+
+
+.navbar{
+    background-image: url('img/puntos_esq_der.png')
+}
+.inicio:hover{
+    background-color:#A4C05A;
+    height: 40px;
+    width: 90px;
+    /* color:'#A4C05A' */
+}
+.nosotros:hover{
+    background-color:#A4C05A;
+    
+}
+.capacitaciones:hover{
+    background-color:#A4C05A;
+    
+}
+.contacto:hover{
+    background-color:#A4C05A;
+     
+}
+.ETC{
+    width: 20%;
+    height: 20%;
+    /* margin: 10px 15px; */
+
+}
+.redesSociales{
+    width: 25px;
+    height: auto;
+}
+.redesSociales:hover{
+    width: 40px;
+    height: 50px;
+  }
+  .section{
+      background-image:url('img/puntos_bg.png')
+  }
+  .video{
+      height: 40%;
+      width: auto;
+  }
+  .lineaVertical{
+    border-style: solid;
+    width: 300px;
+    height: 300px;
+    border-color: #A4C05A;
+}
+.CentroEvaluacion{
+    font-size:30px;
+    text-align: justify;
+    color:#4668A9;
+}
+.CentroEvaluacion2{
+    font-size:30px;
+    text-align: justify;
+    color:#A4C05A;
+}

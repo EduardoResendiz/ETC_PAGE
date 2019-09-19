@@ -1,0 +1,258 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.derecha{
+    float: right;  color: #ff000000
+}
+
+.navbar{
+    background-color: black;
+}
+.inicio:hover{
+    background-color:#A4C05A;
+    height: 40px;
+    width: 90px;
+    /* color:'#A4C05A' */
+}
+.nosotros:hover{
+    background-color:#A4C05A;
+    
+}
+.capacitaciones:hover{
+    background-color:#A4C05A;
+    
+}
+.contacto:hover{
+    background-color:#A4C05A;
+     
+}
+.ETC{
+    width: 20%;
+    height: 20%;
+    /* margin: 10px 15px; */
+
+}
+.redesSociales{
+    width: 25px;
+    height: auto;
+}
+.redesSociales:hover{
+    width: 40px;
+    height: 50px;
+  }
+  .botonL{
+    color: #A4C05A;
+  }
+
+.lineaVertical{
+    border-style: solid;
+    width: 1px;
+    height: 300px;
+    margin: 0px;
+    border-color: #A4C05A;
+}
+/* .lineaHorizontal{
+    border-style: solid;
+    background-color: #A4C05A;
+    width: 300px;
+    height: 40px;
+    border-color: #A4C05A;
+    margin: 0px 250px;
+    border-radius: 15px;
+    color: white;
+    text-align: center;  
+} */
+#boton{
+    background-color: #A4C05A;
+    color: white;
+    width: 250px;
+    border-radius: 10px;
+    margin-left:20%; 
+}
+
+.CentroEvaluacion{
+    margin:8px;
+    font-size:30px;
+    text-align: justify;
+    color:#4668A9;
+}
+.CentroEvaluacion2{
+    margin:15px;
+    font-size:30px;
+    text-align: justify;
+    color:#A4C05A;
+}
+.carrousel1{
+    height: 30%;
+    width: 30%;
+}
+.capacitacionesTi{
+    color: #60A0BE;
+    font-size: 30px;
+    text-align: center;
+}
+.formate{
+    font-size: 50px;
+    color: #4668A9;
+    
+}
+.capacitate{
+    font-size: 50px;
+    color: #A4C05A;
+    
+}
+.preparate{
+    font-size: 50px;
+    color: #5080b9;
+}
+.textocentro{
+    text-align: center;
+}
+.nosotros{
+    font-size: 60px;
+    color: #5080b9;
+    margin: 0px 30px;
+}
+.lineaNosotros{
+    border-style: solid;
+    width: 20px;
+    height: 100px;
+    margin: 10px 30px;
+    border-color: #A4C05A;
+    background-color: #A4C05A;
+}
+.margen{
+    margin: 5px 40px;
+    text-align: justify;
+}
+.cuadroblanco{
+    height: 300px;
+    width: 100px;
+}
+.redConocer{
+    width: 30%;
+    height: auto;
+    margin: 0px 400px;
+   
+}
+.icem{
+    width: 30%;
+    height: auto;
+    margin: 0px 150px;
+}
+.estamos{
+    color: #4668A9;
+    font-size: 30px;
+}
+.evaluacion{
+    color: #60A0BE;
+    font-size: 30px;
+}
+.red{
+    color: #A4C05A;
+    font-size: 40px;
+}
+.mision{
+    height:500px;
+    width: auto;
+    margin: 50px;
+}
+.gris{
+    height: 400px;
+    width: auto;
+    margin:0px;
+    background-color: rgb(182, 180, 180);
+    border: solid 1px rgb(182, 180, 180);
+    color: black;
+}
+.contamos{
+    text-align: center;
+    font-size: 40px;
+}
+.casco{
+    width: 70%;
+    height:auto;
+    padding: 60px;
+    margin: 40px 80px;
+}
+.texttocasco{
+    margin: 60px 0px;
+    font-size: 23px;
+    text-align: justify;
+}
+.ingenieros{
+    width: 60%;
+    height: auto;
+    padding: 9%;
+}
+.conoce{
+    font-size: 50px;
+    color: #4668A9;
+    margin:0px 40px;
+}
+.nuestros{
+    font-size: 50px;
+    color:#A4C05A;
+    margin:0px 40px;
+}
+.conoceExpertos{
+    font-size: 25px;
+    text-align: justify;
+}
+.gris2{
+    height: 600px;
+    width: auto;
+    margin:0px;
+    background-color: rgb(182, 180, 180);
+    border: solid 1px rgb(182, 180, 180);
+    color: black;
+}
+.medida{
+    font-size: 40px;
+    text-align: center ;
+}
+.cuadrado{
+border: #A4C05A; 
+border-style: solid;
+background-color:white;
+width: 300px;
+height: 300px;
+border-color: #A4C05A;
+margin: 10px 20px;
+border-radius: 15px;
+color: black;
+text-align: center;
+padding: 0;
+margin: 5px;  
+}
+.monos{
+    width: 40%;
+    height: auto;
+    padding: 10px;
+}
+.eco{
+    font-size: 20px;
+    color: #4668A9;
+    font-family: fantasy;
+}
+.mas{
+    height:70px;
+    width: auto;
+    margin: 0px 120px;
+    
+}
+.liata1{
+    font-size: 20px;
+}
+
+.linea{
+    border-style: solid;
+    width: 1px;
+    height: 300px;
+    margin: 0px;
+    border-color: #A4C05A;
+}
